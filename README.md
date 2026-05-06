@@ -1,4 +1,4 @@
-#🔹 Simple WPF MVVM Application
+🔹 Simple WPF MVVM Application
 
 A lightweight desktop application built with WPF following the MVVM (Model-View-ViewModel) design pattern. The project demonstrates clean separation of concerns, maintainable architecture, and responsive UI binding.
 
